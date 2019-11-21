@@ -4,5 +4,5 @@
  
 ### Publication Link
 [TTPDrill: Automatic and Accurate Extraction of Threat Actions from Unstructured Text of CTI Sources, Husari, Ghaith and Al-Shaer, Ehab and Ahmed, Mohiuddin and Chu, Bill and Niu, Xi. roceedings of the 33rd Annual Computer Security Applications Conference
- booktitle = {Proceedings of the 33rd Annual Computer Security Applications Conference},ACSAC 2017.] (http://doi.acm.org/10.1145/3134600.3134646)
+ . Proceedings of the 33rd Annual Computer Security Applications Conference,ACSAC 2017.] (http://doi.acm.org/10.1145/3134600.3134646)
  
